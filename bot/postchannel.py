@@ -39,7 +39,7 @@ def facts_to_str(user_data: Dict[str, str]):
         f'\n🎥 <b>Capitulos:</b> {capitulos}\n🗜️ <b>Partes:</b> {partes}\n🎞 <b>Temporada:</b> {temporada}\n'
         f'\n📝 <b>Argumento:</b> {argumento}\n📤'
         '<b>Subido por:</b> <a href="tg://user?id={user}">{name}</a>\n\n'
-        '🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁\n🎴 <a href="https://t.me/DescarguasGSP"><b>☁️CLOUD☁️ □ Descargas.Gratis □</b></a> 🎴'
+        '🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁\n🎴 <a href=""><b>☁️CLOUD☁️ □ Descargas.Gratis □</b></a> 🎴'
     )
 
 
