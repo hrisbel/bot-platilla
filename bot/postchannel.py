@@ -35,11 +35,11 @@ def facts_to_str(user_data: Dict[str, str]):
     argumento = user_data['argumento']
     resolucion = user_data['resolucion']
     return (
-        f'🎴<b>{nombre}🎴</b>\n\n\n🎬 <b>Resolución:</b> {resolucion}\n📦 <b>Tamaño:</b> {tamaño}'
+        f'🎴<b>{nombre}🎴</b>\n🎬 <b>Resolución:</b> {resolucion}\n📦 <b>Tamaño:</b> {tamaño}'
         f'\n🎥 <b>Capitulos:</b> {capitulos}\n🗜️ <b>Partes:</b> {partes}\n🎞 <b>Temporada:</b> {temporada}\n'
         f'\n📝 <b>Argumento:</b> {argumento}\n📤'
         '<b>Subido por:</b> <a href="tg://user?id={user}">{name}</a>\n\n'
-        '🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁\n🎴 <a href="https://t.me/DescargasGSP"><b>X ☁️CLOUD☁️ □ Descargas.Gratis □</b></a> 🎴'
+        '🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁\n🎴 <a href="https://t.me/DescargasGSP"><b>☁️CLOUD☁️ □ Descargas.Gratis □</b></a> 🎴'
     )
 
 
